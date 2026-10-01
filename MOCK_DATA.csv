@@ -1,0 +1,201 @@
+id,group,name,age,city,score
+1,,,38,Xiaowuzhan,83
+2,B,Neille,7,Kunting,4
+3,A,Eduardo,35,Xiangfeng,80
+4,B,Venus,20,Dārān,71
+5,,Dwain,98,Kafr Kannā,43
+6,A,Ula,53,Vukovije Donje,32
+7,A,Wynn,67,Bessonovka,74
+8,A,Peterus,76,Shiniujiang,22
+9,C,Bing,59,Fengjiang,11
+10,C,Chucho,52,Jindong,18
+11,,Loree,47,Acherítou,69
+12,A,Shelbi,83,Magisterial,6
+13,B,Yevette,15,Balagon,68
+14,A,Daron,100,Córdoba,9
+15,D,Costa,42,Wushan,90
+16,C,Marilin,78,Renfengzhuang,75
+17,B,Terrel,45,Strašice,29
+18,,Ginnifer,56,Tapas,66
+19,D,Issiah,23,Jianqiao,93
+20,D,Klara,41,Swedru,32
+21,C,Kimbell,75,Breda,50
+22,B,Gillian,36,Yūki,91
+23,B,Dacy,87,Rawa,9
+24,B,Celina,53,Tatebal,40
+25,B,,9,Baoshan,66
+26,D,Lonnard,7,Flying Fish Cove,84
+27,C,Carolyn,62,Kagoro,31
+28,D,Barbette,62,Al Ḩaffah,99
+29,B,Doyle,82,Kerema,48
+30,,Blithe,95,Putre,72
+31,B,Robinson,15,North Little Rock,57
+32,D,Virgilio,12,Ginatilan,15
+33,A,Shepperd,59,Daxing,61
+34,A,Felipe,100,Recife,44
+35,A,Eddi,10,Salavat,17
+36,,Devonne,46,Pervomayskiy,13
+37,A,Darcey,100,Могила,44
+38,B,Gaye,30,Gorbatov,34
+39,A,,46,Gangkoujie,
+40,A,Lebbie,87,Magrath,28
+41,C,Ulrich,58,Dresi Wetan,71
+42,D,,10,Fengshan,22
+43,C,Derrik,38,As Sawdā,68
+44,D,Elsy,35,Lac La Biche,25
+45,B,Giraldo,14,Bueng Kan,86
+46,C,Amberly,64,Bajos de Haina,47
+47,D,Randi,98,Biryukove,3
+48,C,Noellyn,86,Vaiņode,94
+49,C,,6,Sigaozhuang,71
+50,A,Robert,19,Baiba,
+51,C,Hulda,15,Zhangaqorghan,58
+52,C,Austen,43,Aldeia da Mata,59
+53,C,Emlynne,24,Ruteng,48
+54,D,Tally,64,Garawati,81
+55,B,Marquita,12,Zhoutie,84
+56,A,Dyana,39,Lajkovac,72
+57,B,Karissa,75,Couto,39
+58,A,Wildon,95,Ebu,50
+59,B,Cassandre,50,Jungutbatu Kaja Dua,82
+60,B,Abie,31,Gornorechenskiy,46
+61,D,Samantha,5,Zalantun,88
+62,B,,37,Cabangahan,75
+63,B,Weber,78,Saba Yoi,15
+64,A,Ahmed,20,Lai Cách,26
+65,B,,44,Paniqui,19
+66,B,Bevvy,84,Kuybyshevskiy Zaton,84
+67,C,Ripley,22,Bongbong,35
+68,D,Brooke,13,Solntsevo,43
+69,C,Penrod,4,Ialoveni,47
+70,A,Ettore,50,Eixo,83
+71,C,Clarita,72,Compiègne,34
+72,C,Rourke,87,Salinungan Proper,58
+73,B,Anallese,91,Mouriscas,65
+74,C,Horatius,83,El Regalo,42
+75,D,Erasmus,67,Gourcy,80
+76,B,Vern,44,Zhong’an,40
+77,D,Mendie,56,Ar Ramthā,15
+78,C,Werner,1,Pittsburgh,1
+79,A,Onofredo,83,Žihle,45
+80,D,Christoper,9,Erie,70
+81,C,Charlean,9,Saint-Augustin,6
+82,A,Maryjo,82,Santa Cruz,14
+83,B,,75,Telagasari,
+84,A,Zsazsa,52,Longwei,45
+85,B,Danell,28,Austin,
+86,D,Adham,69,Kharbathā Banī Ḩārith,95
+87,A,Livvie,71,Richmond,31
+88,C,Windham,2,Iporá,65
+89,,Raddie,42,El Real,
+90,B,Jorgan,66,Padangpanjang,53
+91,C,Remington,45,Puger,2
+92,,,38,Currais,33
+93,B,Alisha,79,Gubukjero Timuk,62
+94,A,Joane,55,Awat,72
+95,D,Shelley,21,Itaberaí,19
+96,A,Cordi,86,Ralung,71
+97,C,Gnni,31,Cochabamba,40
+98,D,Brana,74,Zachepylivka,1
+99,D,Merry,45,Volzhskiy,
+100,A,Beckie,35,Magisterial,95
+101,C,Kristal,84,Thị Trấn Mù Cang Chải,51
+102,C,Bronnie,44,Wiśniewo,38
+103,A,Jolie,86,Wonorejo,87
+104,C,Leighton,89,Ugep,34
+105,C,Alexi,92,Chechenglu,15
+106,D,Ashby,12,Kochenëvo,16
+107,C,Fair,97,Hallstahammar,7
+108,B,Adolphus,85,Al Balyanā,67
+109,C,Kelci,83,Kedungwringin,74
+110,D,Catarina,81,Ajdabiya,53
+111,A,Rey,63,Lesnyye Polyany,36
+112,C,Benetta,19,Jaroměřice,32
+113,D,Vikki,3,Rouen,98
+114,D,Ashlee,3,Salamnunggal,95
+115,A,Dian,20,Evansville,46
+116,C,,72,Al Jubayl,89
+117,C,Erastus,21,Las Flores,
+118,A,Datha,99,Elvas,44
+119,A,Adi,52,Henghe,34
+120,D,Bastien,80,Shangwuzhuang,77
+121,B,,27,Mozi,91
+122,D,Jourdain,53,Magtaking,88
+123,C,Dimitri,78,Walichnowy,60
+124,A,Beatrix,64,Tsushima,86
+125,B,Lock,31,Leśna Podlaska,75
+126,B,Renata,92,Tingsryd,
+127,B,Evvy,95,Huaqiu,37
+128,C,Pieter,10,Leles,27
+129,A,Erika,86,Beishan,9
+130,C,Kale,88,Ozëry,75
+131,D,,37,Arcos de Valdevez,35
+132,C,Anet,3,Sendangkemulian,50
+133,C,Godard,92,Zhaojia,74
+134,A,Carlynn,20,Karangpapak,13
+135,D,Xavier,29,Sumbergedong,44
+136,A,Mordy,80,Tapilon,78
+137,C,Zerk,5,Tuojiang,21
+138,A,Garry,36,Yongping,98
+139,C,Ev,31,Mitake,98
+140,C,Deloria,95,Guling,93
+141,D,Glory,47,Geser,92
+142,D,Sandye,15,Krasnoshchekovo,59
+143,D,Thatcher,39,Laju Kidul,24
+144,,Alia,18,Vamvakoú,16
+145,B,Cad,19,Basel,19
+146,A,Caty,3,Čoka,38
+147,B,Danit,52,Prainha de Baixo,33
+148,B,Donia,91,Metu,58
+149,A,Bogey,41,Thaon-les-Vosges,41
+150,B,Jacquelynn,61,Nanqiao,29
+151,B,Tabby,8,Wangcun,99
+152,A,Zollie,86,San Juan,6
+153,B,Ciro,67,Marteleira,70
+154,D,Stephani,4,Phu Khiao,7
+155,,Rosanna,59,Orekhovo-Zuyevo,84
+156,B,Chris,38,Molugan,32
+157,C,Willetta,37,San Agustin,46
+158,C,Hillard,86,Shanghang,48
+159,B,Chev,36,Sasovo,36
+160,D,Fiona,55,Penghua,70
+161,D,Shayla,89,Khóra,20
+162,B,Rees,80,Béoumi,90
+163,B,Yovonnda,81,Haz-Zebbug,77
+164,B,Gabbi,41,Plumbangan,71
+165,D,Gris,51,Pangpang,
+166,B,Joshia,58,Guimba,1
+167,B,,70,Altan-Ovoo,32
+168,B,Marjy,18,Rakičan,31
+169,C,Sven,57,Xiangfu,7
+170,C,Angelina,71,Hongwansi,24
+171,D,Zelma,5,Rambouillet,29
+172,C,Tanny,1,Koch'ang,6
+173,C,Bobine,77,Xinghua,84
+174,C,Farrel,93,Protaras,33
+175,B,Kakalina,65,Thung Song,97
+176,D,Jorge,26,Fengmu,84
+177,B,Missy,23,Baishuitan,94
+178,B,Isaac,50,Batan,22
+179,C,Dennison,1,Shahrīār,10
+180,D,Adrea,81,Juhaynah,97
+181,A,Burl,23,Göteborg,84
+182,A,Thorpe,2,Yangyuan,96
+183,,Winnie,95,Xinjie,
+184,C,Reggi,65,Correia Pinto,12
+185,,Teressa,97,Neuville,67
+186,C,Norry,87,Kalibo (poblacion),53
+187,,,41,Frýdek-Místek,10
+188,C,Ingelbert,64,Itaúna,41
+189,C,Sansone,42,Kafr Takhārīm,88
+190,C,Tailor,18,Guanba,22
+191,C,Allie,99,Hutou,
+192,C,Norby,27,Le Teil,36
+193,A,Aile,5,Kislovodsk,34
+194,D,Wyn,61,Camiri,24
+195,C,Willow,77,Kipini,11
+196,C,Cissy,78,Dobra,41
+197,B,Ketty,50,Tyarlevo,69
+198,A,Persis,51,Kostyantynivka,21
+199,B,Maximilien,12,Enriquillo,41
+200,A,Madelena,76,Huangshi,1

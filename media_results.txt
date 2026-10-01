@@ -1,0 +1,6 @@
+username	email	content	created_at
+alice	alice@example.com	Alice first post	2026-10-01 02:06:50
+bob	bob@example.com	Bob says hello	2026-10-01 02:06:50
+charlie	charlie@example.com	Charlie has class	2026-10-01 02:06:50
+diana	diana@example.com	Diana writes a post	2026-10-01 02:06:50
+eric	eric@example.com	Eric is learning databases	2026-10-01 02:06:50
